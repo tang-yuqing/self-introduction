@@ -21,4 +21,4 @@
 * 微电同步：13790897667
 * 邮箱：862705952@qq.com
 * QQ：862705952
-- [gitee]:(https://gitee.com/tangyuqing)
+- [gitee](https://gitee.com/tangyuqing)
